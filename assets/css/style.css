@@ -1,0 +1,25 @@
+.jumbotron {
+     background-image: url("../images/rraod.jpeg");
+     background-position: center center;
+     font-weight: bold;
+     color:white;
+    
+
+}
+
+body {
+
+    background-size: cover;
+    font-family: 'Arial Narrow';
+    background-color: aliceblue;
+  }
+
+
+
+
+h2, form, input , tr {
+    margin: 5px;
+}
+ .trainbtn {
+     margin: 5px;
+ }
